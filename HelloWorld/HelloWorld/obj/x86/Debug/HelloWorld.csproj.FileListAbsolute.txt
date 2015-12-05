@@ -1,0 +1,4 @@
+C:\Users\Hemanth Sai\Documents\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Hemanth Sai\Documents\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Hemanth Sai\Documents\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Hemanth Sai\Documents\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
