@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ValidationsLib\ValidationsLib.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValidationsLib\MyValidations.cs">
+    <Files>
+      <File FileName="ValidationsLib\MyValidations.cs" Line="35" Column="35" />
+      <File FileName="ValidationsLib\app.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,13 @@
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\obj\Debug\SqlConnector.csprojResolveAssemblyReference.cache
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\obj\Debug\SqlConnector.Contacts.resources
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\obj\Debug\SqlConnector.Properties.Resources.resources
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\obj\Debug\SqlConnector.csproj.GenerateResource.Cache
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\bin\Debug\SqlConnector.exe.config
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\bin\Debug\SqlConnector.exe
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\bin\Debug\SqlConnector.pdb
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\bin\Debug\MySql.Data.dll
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\obj\Debug\SqlConnector.exe
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\obj\Debug\SqlConnector.pdb
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\obj\Debug\SqlConnector.InsertDetails.resources
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\bin\Debug\ValidationsLib.dll
+C:\Users\Hemanth Sai\Downloads\csharp-assignments-\Example Solutions\SqlConnector\SqlConnector\bin\Debug\ValidationsLib.pdb

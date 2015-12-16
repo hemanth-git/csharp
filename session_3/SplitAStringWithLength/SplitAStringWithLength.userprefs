@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="SplitAStringWithLength\SplitAStringWithLength.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SplitAStringWithLength\Program.cs">
+    <Files>
+      <File FileName="SplitAStringWithLength\Program.cs" Line="35" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

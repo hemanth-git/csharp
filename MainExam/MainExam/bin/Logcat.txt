@@ -1,0 +1,83 @@
+Input string was not in a correct format.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Table 'university.ratings' doesn't exist
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Table 'university.master_dll' doesn't exist
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Table 'university.master_dll' doesn't exist
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Table 'university.master_dll' doesn't exist
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Table 'university.master_dll' doesn't exist
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Table 'university.master_dll' doesn't exist
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Cannot bind to the new display member.
+Parameter name: newDisplayMember
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Complex DataBinding accepts as a data source either an IList or an IListSource.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Cannot bind to the new display member.
+Parameter name: newDisplayMember
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Cannot bind to the new display member.
+Parameter name: newDisplayMember
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Cannot bind to the new display member.
+Parameter name: newDisplayMember
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Cannot bind to the new display member.
+Parameter name: newDisplayMember
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Cannot bind to the new display member.
+Parameter name: newDisplayMember
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Input string was not in a correct format.
+Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.

@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TypeCasting\TypeCasting.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TypeCasting\AddingIntegers.cs">
+    <Files>
+      <File FileName="TypeCasting\Program.cs" Line="61" Column="61" />
+      <File FileName="TypeCasting\UtilClass.cs" Line="94" Column="94" />
+      <File FileName="TypeCasting\AddingFloatNumbers.cs" Line="57" Column="57" />
+      <File FileName="TypeCasting\AddingIntegers.cs" Line="44" Column="44" />
+      <File FileName="TypeCasting\SignNumberDemo.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

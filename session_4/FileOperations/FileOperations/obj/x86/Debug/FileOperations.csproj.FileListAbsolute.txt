@@ -1,0 +1,12 @@
+C:\Users\Hemanth Sai\Documents\Projects\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+C:\Users\Hemanth Sai\Documents\Projects\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+C:\Users\Hemanth Sai\Documents\Projects\FileOperations\FileOperations\obj\x86\Debug\FileOperations.exe
+C:\Users\Hemanth Sai\Documents\Projects\FileOperations\FileOperations\obj\x86\Debug\FileOperations.pdb
+C:\Users\USER\Desktop\csharp-hemanth-k\session_4\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+C:\Users\USER\Desktop\csharp-hemanth-k\session_4\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+C:\Users\USER\Desktop\csharp-hemanth-k\session_4\FileOperations\FileOperations\obj\x86\Debug\FileOperations.exe
+C:\Users\USER\Desktop\csharp-hemanth-k\session_4\FileOperations\FileOperations\obj\x86\Debug\FileOperations.pdb
+C:\Users\Hemanth Sai\Desktop\csharp-hemanth-k\session_4\FileOperations\FileOperations\bin\Debug\FileOperations.exe
+C:\Users\Hemanth Sai\Desktop\csharp-hemanth-k\session_4\FileOperations\FileOperations\bin\Debug\FileOperations.pdb
+C:\Users\Hemanth Sai\Desktop\csharp-hemanth-k\session_4\FileOperations\FileOperations\obj\x86\Debug\FileOperations.exe
+C:\Users\Hemanth Sai\Desktop\csharp-hemanth-k\session_4\FileOperations\FileOperations\obj\x86\Debug\FileOperations.pdb

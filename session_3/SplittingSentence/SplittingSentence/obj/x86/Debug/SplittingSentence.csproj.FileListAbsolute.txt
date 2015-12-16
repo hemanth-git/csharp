@@ -1,0 +1,4 @@
+C:\Users\Hemanth Sai\Documents\Projects\SplittingSentence\SplittingSentence\bin\Debug\SplittingSentence.exe
+C:\Users\Hemanth Sai\Documents\Projects\SplittingSentence\SplittingSentence\bin\Debug\SplittingSentence.pdb
+C:\Users\Hemanth Sai\Documents\Projects\SplittingSentence\SplittingSentence\obj\x86\Debug\SplittingSentence.exe
+C:\Users\Hemanth Sai\Documents\Projects\SplittingSentence\SplittingSentence\obj\x86\Debug\SplittingSentence.pdb

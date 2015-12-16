@@ -1,0 +1,9 @@
+C:\Users\Hemanth Sai\Documents\Projects\FrequencyOfCharacters\FrequencyOfCharacters\bin\Debug\FrequencyOfCharacters.exe
+C:\Users\Hemanth Sai\Documents\Projects\FrequencyOfCharacters\FrequencyOfCharacters\bin\Debug\FrequencyOfCharacters.pdb
+C:\Users\Hemanth Sai\Documents\Projects\FrequencyOfCharacters\FrequencyOfCharacters\obj\x86\Debug\FrequencyOfCharacters.exe
+C:\Users\Hemanth Sai\Documents\Projects\FrequencyOfCharacters\FrequencyOfCharacters\obj\x86\Debug\FrequencyOfCharacters.pdb
+C:\Users\USER\Desktop\csharp-hemanth-k\session_3\FrequencyOfCharacters\FrequencyOfCharacters\bin\Debug\FrequencyOfCharacters.exe
+C:\Users\USER\Desktop\csharp-hemanth-k\session_3\FrequencyOfCharacters\FrequencyOfCharacters\bin\Debug\FrequencyOfCharacters.pdb
+C:\Users\USER\Desktop\csharp-hemanth-k\session_3\FrequencyOfCharacters\FrequencyOfCharacters\obj\x86\Debug\FrequencyOfCharacters.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\csharp-hemanth-k\session_3\FrequencyOfCharacters\FrequencyOfCharacters\obj\x86\Debug\FrequencyOfCharacters.exe
+C:\Users\USER\Desktop\csharp-hemanth-k\session_3\FrequencyOfCharacters\FrequencyOfCharacters\obj\x86\Debug\FrequencyOfCharacters.pdb

@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Calculator\Calculator.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator\UtilClass\Operations.cs">
+    <Files>
+      <File FileName="Calculator\Program.cs" Line="1" Column="1" />
+      <File FileName="Calculator\UtilClass\Operations.cs" Line="5" Column="5" />
+      <File FileName="Calculator\UtilClass\IOoperations.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
