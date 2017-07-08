@@ -1,0 +1,84 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using System.Windows.Forms;
+using System.Drawing;
+using System.Threading;
+using System.IO;
+
+namespace WpfApplication1
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public MainWindow()
+        {
+            InitializeComponent();
+            
+        }
+        int imageCounter = 0;
+        public void imageCapture(){
+            //System.Threading.Thread.Sleep(200);
+            Bitmap bitmap = new Bitmap(Screen.PrimaryScreen.Bounds.Width,
+                                    Screen.PrimaryScreen.Bounds.Height);
+            Graphics graphics = Graphics.FromImage(bitmap);
+            graphics.CopyFromScreen(0, 0, 0, 0, bitmap.Size);
+            System.Windows.Forms.SaveFileDialog saveFile = new SaveFileDialog();
+            saveFile.InitialDirectory = @"C:\Users\USER\Downloads\New folder\";
+            saveFile.Title = "Save Screenshot";
+            saveFile.DefaultExt = "jpg";
+            saveFile.Filter = "Jpg files(*.jpg)|*.jpg";
+            saveFile.FilterIndex = 2;
+            saveFile.RestoreDirectory = true;
+            saveFile.OverwritePrompt = true;
+            imageCounter++;
+            saveFile.FileName = "capture" + imageCounter;
+            if (saveFile.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                String directorySelected = saveFile.FileName;
+                Console.WriteLine(directorySelected + " " + saveFile.FileName);
+                bitmap.Save(saveFile.FileName, System.Drawing.Imaging.ImageFormat.Jpeg);
+            }
+            
+            //System.Threading.Thread.Sleep(200);
+            //System.Windows.Application.Current.MainWindow.Visibility = Visibility.Visible;
+            this.WindowStyle = WindowStyle.SingleBorderWindow;
+            this.WindowState = (WindowState)FormWindowState.Normal;
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            try {
+                minimizeWindow();
+            }
+            finally
+            {
+                imageCapture();
+            }
+         }
+        public void minimizeWindow()
+        {
+            //System.Windows.Application.Current.MainWindow.Visibility = Visibility.Hidden;
+            //FormWindowState = Minimized;
+            this.WindowStyle = WindowStyle.None;
+            this.WindowState = (WindowState)FormWindowState.Minimized;
+            //System.Windows.MessageBox.Show("State minimized");
+        }
+        
+        
+    }
+    
+}
